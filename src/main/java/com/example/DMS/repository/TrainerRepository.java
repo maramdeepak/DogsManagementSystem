@@ -1,7 +1,7 @@
 package com.example.DMS.repository;
 
 /**
- * MARAM DEEPAK REDDY S548918
+ * @author MARAM DEEPAK REDDY S548918
  */
 import org.springframework.data.repository.CrudRepository;
 

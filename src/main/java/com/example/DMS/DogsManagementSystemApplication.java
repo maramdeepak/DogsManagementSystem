@@ -3,6 +3,9 @@ package com.example.DMS;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author MARAM DEEPAK REDDY S548918
+ */
 @SpringBootApplication
 public class DogsManagementSystemApplication {
 

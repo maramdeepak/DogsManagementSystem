@@ -5,7 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
 /**
- * MARAM DEEPAK REDDY S548918
+ * @author MARAM DEEPAK REDDY S548918
  */
 
 

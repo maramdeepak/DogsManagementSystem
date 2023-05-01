@@ -4,9 +4,8 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * MARAM DEEPAK REDDY S548918
+ * @author MARAM DEEPAK REDDY S548918
  */
-
 
 @Entity
 public class Trainer {
